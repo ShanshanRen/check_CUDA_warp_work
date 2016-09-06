@@ -8,4 +8,4 @@ Warp 0 finish the two-layer loops earlier than warp 1.
 use clock() to calculate the time used by each warp.
 
 
-clock() is the device function so that we can use it in the device funciton.
+clock() is the device function so that we can use it in the device function.
